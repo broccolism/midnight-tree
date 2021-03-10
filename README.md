@@ -1,6 +1,7 @@
 # midnight-tree
 
 C++ implementation of AVL tree and B tree - 기록용!
+made in the midnight
 
 ## AVL Tree
 
